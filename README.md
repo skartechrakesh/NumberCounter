@@ -2,11 +2,9 @@
 
 ***
 
-## Demo Link
+### Demo Website Link
 
 ***
-
-### Demo Website Link
 
 Click here ---> [Number Counter](https://skartechrakesh.github.io/NumberCounter/)
 
@@ -17,4 +15,4 @@ Click here ---> [Number Counter](https://skartechrakesh.github.io/NumberCounter/
 2. CSS
 3. JavaScript 
 
-- A Simple Web Project by Rakesh Reddy :)
+===> A Simple Web Project by Rakesh Reddy 😊🤞💖
