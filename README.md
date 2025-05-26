@@ -1,10 +1,8 @@
 # NumberCounter
 
-***
-
 ### Demo Website Link
 
-***
+---
 
 Click here ---> [Number Counter](https://skartechrakesh.github.io/NumberCounter/)
 
