@@ -2,8 +2,6 @@
 
 ### Demo Website Link
 
----
-
 Click here ---> [Number Counter](https://skartechrakesh.github.io/NumberCounter/)
 
 `A Basic website with the number counter in integers which can have both negative and positive numbers`
