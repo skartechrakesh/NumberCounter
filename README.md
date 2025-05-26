@@ -14,6 +14,6 @@ Click here ---> [Number Counter](https://skartechrakesh.github.io/NumberCounter/
 2. CSS
 3. JavaScript 
 
-___
+<hr style="border:2px solid gray">
 
 ===> A Simple Web Project by Rakesh Reddy 😊🤞💖
